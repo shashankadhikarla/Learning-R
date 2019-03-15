@@ -40,4 +40,7 @@ To https://github.com/shashankadhikarla/Learning-R.git
 # Commiting and then pushing 
 
 # We shall now add this file to GitHub as well. 
-
+guest@AND010:~/.mozilla/firefox/Learning-R$ git add R_2_15032019.r 
+guest@AND010:~/.mozilla/firefox/Learning-R$ git commit -m "Day 1 Code 2 ANDC R Workshop (15032019)"
+guest@AND010:~/.mozilla/firefox/Learning-R$ git push origin master  
+Username for 'https://github.com': shashankadhikarla
